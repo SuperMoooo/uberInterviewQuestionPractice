@@ -1,4 +1,4 @@
-# uber Interview Question Practice
+# Uber Interview Question Practice
 
 ## Live: https://supermoooo.github.io/uberInterviewQuestionPractice/
 
